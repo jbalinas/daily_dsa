@@ -5,7 +5,7 @@ This repository is dedicated to **weekly Data Structures and Algorithms (DSA) pr
 
 ## 📂 Repository Structure  
 - Problems are categorized into **folders** based on:  
-  - **Contributor** (e.g., individual practice or group contributions)  
+  - **Contributor**
   - **Difficulty Level** (**Easy → Hard**)  
   - **Problem Type** (e.g., arrays, graphs, dynamic programming, etc.)  
 
